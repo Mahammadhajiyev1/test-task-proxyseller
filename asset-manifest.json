@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-proxyseller/static/css/main.fa6bdd6f.css",
+    "main.js": "/test-task-proxyseller/static/js/main.a6e0e427.js",
+    "index.html": "/test-task-proxyseller/index.html",
+    "main.fa6bdd6f.css.map": "/test-task-proxyseller/static/css/main.fa6bdd6f.css.map",
+    "main.a6e0e427.js.map": "/test-task-proxyseller/static/js/main.a6e0e427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6bdd6f.css",
+    "static/js/main.a6e0e427.js"
+  ]
+}
