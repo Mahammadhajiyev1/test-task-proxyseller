@@ -69,7 +69,8 @@ const UserList = () => {
               width: "18rem",
               height: "8rem",
               margin: "25px",
-              backgroundColor: "#F7CAC9",
+              boxShadow: "0 4px 8px 0",
+              backgroundColor: "#fffdfa",
             }}
           >
             <Card.Body>

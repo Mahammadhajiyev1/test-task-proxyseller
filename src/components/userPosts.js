@@ -40,8 +40,7 @@ const UserPosts = () => {
           style={{
             width: "70%",
             margin: "10px",
-
-            backgroundColor: "#F7CAC9",
+            backgroundColor: "#fffdfa",
           }}
         >
           <Card.Title>{post.title.toUpperCase()}</Card.Title>
